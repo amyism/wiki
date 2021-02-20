@@ -1,0 +1,3 @@
+# wiki
+
+amyism dot wiki
