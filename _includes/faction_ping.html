@@ -1,4 +1,6 @@
 {% assign faction = site.data.factions[include.faction] %}
+{{ faction }}
+{{ site.data }}
 <a href="{{ "/factions/" | append: include.faction | relative_url }}" style="color: {{ faction.color }}">
   {{ faction.name }}
 </a>
