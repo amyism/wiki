@@ -2,7 +2,7 @@
 
 There are many factions within Amylandia.
 
-2
+3
 
 <ul>
 {% for faction in site.data.factions %}
