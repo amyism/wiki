@@ -93,5 +93,5 @@ lawyer:
 
 pet_pal:
   name: pet pals
-  color: rgb(255, 105, 180)
+  color: rgb(217, 128, 250)
   desc: Ping this man for headpats.
