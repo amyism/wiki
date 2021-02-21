@@ -1,0 +1,4 @@
+{% assign faction = site.data.factions[include.faction] %}
+<a href="/factions/{{ include.faction }}" style="color: {{ faction.color }}">
+  {{ faction.name }}
+</a>

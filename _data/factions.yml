@@ -1,10 +1,10 @@
 spikemouse:
   name: spikemice
   desc: A spiky friend.
-  subfactions:
-    spikemouse_queen:
-      name: queen of the spikemice
-      desc: Ruler of the spikemouse society.
+
+spikemouse_queen:
+  name: queen of the spikemice
+  desc: Ruler of the spikemouse society.
 
 scientist:
   name: galaxy brain scientists
@@ -56,23 +56,20 @@ feline:
   color: rgb(145, 250, 208)
   desc: The natural enemy of the phox, perhaps?
 
-phox:
-  name: the phoxen
-  subfactions:
-    space_phox:
-      name: space phoxen
-      color: rgb(255, 205, 0)
-      desc: The space phoxen that roam the wheat fields of amylandia. Come from space.
-    
-    snek_phox:
-      name: snekphoxen
-      color: rgb(14, 139, 118)
-      desc: Is it a snek? Is it a phox? WHO KNOWS!
-    
-    arctic_phox:
-      name: arctic phoxen
-      color: rgb(250, 102, 7)
-      desc: A phox from the frozen northern lands... or southern lands, who really knows?
+space_phox:
+  name: space phoxen
+  color: rgb(255, 205, 0)
+  desc: The space phoxen that roam the wheat fields of amylandia. Come from space.
+
+snek_phox:
+  name: snekphoxen
+  color: rgb(14, 139, 118)
+  desc: Is it a snek? Is it a phox? WHO KNOWS!
+
+arctic_phox:
+  name: arctic phoxen
+  color: rgb(250, 102, 7)
+  desc: A phox from the frozen northern lands... or southern lands, who really knows?
 
 shade_friend:
   name: shade friends
