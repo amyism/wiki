@@ -1,5 +1,7 @@
 # Factions
 
+{% include stub.md %}
+
 There are many factions within Amylandia.
 
 <ul>
@@ -14,5 +16,3 @@ There are many factions within Amylandia.
   </li>
 {% endfor %}
 </ul>
-
-{% include contrib_stub.md %}
