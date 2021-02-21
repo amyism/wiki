@@ -1,0 +1,97 @@
+spikemouse:
+  name: spikemice
+  desc: A spiky friend.
+
+spikemouse_queen:
+  name: queen of the spikemice
+  desc: Ruler of the spikemouse society.
+
+scientist:
+  name: galaxy brain scientists
+  color: rgb(52, 152, 219)
+  desc: Discovered the space phox and the snekphox. vvv smart
+  
+cheese:
+  name: professional cheeses
+  color: rgb(255, 222, 0)
+  desc: You're cheese!!!
+
+wheat:
+  name: wheats
+  color: rgb(167, 69, 27)
+  desc: Tends to the wheat fields
+
+salmon:
+  name: salmons
+  color: rgb(255, 158, 158)
+  desc: it a fish
+
+windflower:
+  name: windflowers
+  color: rgb(142, 98, 150)
+  desc: A simple traveller who dispenses advice and memes in the order they are needed in
+
+literature_club:
+  name: literature club
+  color: rgb(117, 64, 255)
+  desc: Reading rainbow 📖🌈
+
+oracle:
+  name: oracles
+  color: rgb(255, 209, 220)
+  desc: Tells the future!
+
+historian:
+  name: history nerds
+  color: rgb(242, 220, 96)
+  desc: The historians of amylandia.
+
+happy_fellow:
+  name: happy fellows
+  color: rgb(181, 131, 255)
+  desc: Responsible for the spread of joy around amylandia
+
+feline:
+  name: resident felines
+  color: rgb(145, 250, 208)
+  desc: The natural enemy of the phox, perhaps?
+
+space_phox:
+  name: space phoxen
+  color: rgb(255, 205, 0)
+  desc: The space phoxen that roam the wheat fields of amylandia. Come from space.
+
+snek_phox:
+  name: snekphoxen
+  color: rgb(14, 139, 118)
+  desc: Is it a snek? Is it a phox? WHO KNOWS!
+
+arctic_phox:
+  name: arctic phoxen
+  color: rgb(250, 102, 7)
+  desc: A phox from the frozen northern lands... or southern lands, who really knows?
+
+shade_friend:
+  name: shade friends
+  color: rgb(183, 239, 241)
+  desc: Some sketchy guy who hangs around wearing sunglasses
+
+code_hermit:
+  name: code hermits
+  color: rgb(0, 202, 172)
+  desc: Folx who hang out in their hermit huts and do the code
+
+css_tamer:
+  name: css tamers
+  color: rgb(0, 105, 255)
+  desc: Tames the dreaded beast, CSS. But what is that?
+
+lawyer:
+  name: lawyer folx
+  color: rgb(255, 105, 180)
+  desc: Bails you out of your legal issues or w/e
+
+pet_pal:
+  name: pet pals
+  color: rgb(217, 128, 250)
+  desc: Ping this man for headpats.
