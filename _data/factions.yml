@@ -2,7 +2,8 @@ spikemouse:
   name: spikemice
   desc: A spiky friend.
   subfactions:
-    - name: queen of the spikemice
+    spikemouse_queen:
+      name: queen of the spikemice
       desc: Ruler of the spikemouse society.
 
 scientist:
