@@ -10,7 +10,6 @@ There are many factions within Amylandia.
     {% capture faction_id %}{{ faction[0] }}{% endcapture %}
     {% include faction_ping.html faction=faction_id %}
 
-
     {% if faction[1].desc %}
       - {{ faction[1].desc }}
     {% endif %}
