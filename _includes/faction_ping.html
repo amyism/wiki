@@ -1,6 +1,3 @@
-{% comment %}
-using ufaction variable so that it doesnt conflict with outer faction variables because jekyll sucks
-{% endcomment %}
 {% assign ufaction = site.data.factions[include.faction] %}
 <a href="{{ "/factions/" | append: include.faction | relative_url }}" style="color: {{ ufaction.color }}">
   {{ ufaction.name }}
